@@ -96,7 +96,7 @@ body {
 
 .hero-image img {
   height: auto;
-  width: 100%;
+  width: 600px;
   max-width: 600px;
   background-color: #00000021;
   border-radius: 40px;
@@ -123,7 +123,7 @@ body {
 }
 
 .timeline img {
-  height: 250px;
+  height: 200px;
   width: auto;
   margin: 10px 0;
   border-radius: 8px;
@@ -345,3 +345,4 @@ body {
     transform: translateY(0);
   }
 }
+
